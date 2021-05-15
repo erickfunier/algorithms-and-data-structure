@@ -5,7 +5,7 @@
 
 **/
 
-#include <stdio.h>
+#include <stdio.h>  // Used to get in/ out data
 
 // Find the position traversing the array from end to start
 // checking if current i poisition is greather than new number
