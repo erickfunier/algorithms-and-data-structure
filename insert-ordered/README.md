@@ -1,6 +1,7 @@
 # Sample Algorithm: Insert Ordered
 
 Sample program to read a N integer and insert in a ordered array until receive -1, or reach the maximum array size 100 numbers.
+
 The repository contain a linux compiled version.
 
 Input:
