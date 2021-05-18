@@ -15,7 +15,7 @@ If you want to insert this matrix:
 	| 10 7  6  9 |
 	| 2  8  3  2 |
 
-Use followed input:
+Use followed input: 
 
 Input:
 
