@@ -1,12 +1,12 @@
 # Sample Algorithm: Fold Matrix
 
-Sample program to read a N x N matrix, considering N is pair, and print the folded matrix after two folds.
-Example:
+Sample program to read a N x N matrix, considering N is pair, and print the folded matrix after two folds.</br></br>
+Example:</br></br>
 <img width=350 src="https://user-images.githubusercontent.com/38412804/118789372-15b30f80-b86b-11eb-8f6b-6ae337c9050a.png">
 
 The repository contain a linux compiled version.
 
-If you want to insert this matrix:
+If you want to insert this matrix:</br></br>
 <img width=150 src="https://user-images.githubusercontent.com/38412804/118786786-8b69ac00-b868-11eb-8441-c510b97441ec.png">
 
 Use followed input: 
