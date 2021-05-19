@@ -2,10 +2,7 @@
 
 Sample program to read a N x N matrix, considering N is pair, and print the folded matrix after two folds.
 Example:
-| 4  1  8  1 | --> | 5  9  | --> | 9  20 |
-| 5  2  4  6 |     | 11 6  |     | 30 19 |
-| 10 7  6  9 |     | 19 13 |
-| 2  8  3  2 |     | 4  11 |
+<img width=350 src="https://user-images.githubusercontent.com/38412804/118789372-15b30f80-b86b-11eb-8f6b-6ae337c9050a.png">
 
 The repository contain a linux compiled version.
 
