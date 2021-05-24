@@ -1,6 +1,6 @@
 # Sample Algorithm: Diagonally Dominant Matrix
 
-Sample program to read a N x N matrix, and check ifis diagonally dominant. A matrix is diagonally dominant if:</br></br>
+Sample program to read a N x N matrix, and check if is diagonally dominant. A matrix is diagonally dominant if:</br></br>
 <img width=200 src="https://user-images.githubusercontent.com/38412804/118788800-84dc3400-b86a-11eb-984f-57437540ade3.png"></br>
 where i is row and j is column.
 
