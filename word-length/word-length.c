@@ -6,8 +6,7 @@
 **/
 
 #include <stdio.h>   // Used to get in/ out data
-#include <stdlib.h>
-#include <string.h>
+#include <string.h>  // Used to fgets the user input
 
 int lengthOfLongestWord(char text[]) {
 	int numOfWords = 0, index = 0, temp = 0;
